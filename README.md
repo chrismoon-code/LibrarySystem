@@ -1,2 +1,2 @@
 # LibrarySystem
-Library system utilizing ASP.NET, C#, Bootstrap, Microsoft SQL server.
+Mock Library system utilizing ASP.NET, C#, Bootstrap, Microsoft SQL server.
